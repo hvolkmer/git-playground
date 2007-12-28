@@ -1,1 +1,3 @@
-puts "boo"
+puts "boo bazz"
+
+puts "fazz"
