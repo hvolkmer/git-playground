@@ -1,2 +1,4 @@
 # Just commenting a bit.
-puts "boo"
+puts "boo bazz"
+
+puts "fazz"
